@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285475214774",
+    "project_id": "dr-amr-mohammed",
+    "storage_bucket": "dr-amr-mohammed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285475214774:android:528b142f8eb11718395d17",
+        "android_client_info": {
+          "package_name": "com.joury241.amrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285475214774-4sro1urpb5f2qra4jganfsfiu8aek68a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVc6z_TvWXid3t8fI_rV_87M2sC5O0fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285475214774-4sro1urpb5f2qra4jganfsfiu8aek68a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
